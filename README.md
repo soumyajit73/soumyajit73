@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Soumyajit Datta</h1>
+<h1 align="center">
+  <img src="https://img.icons8.com/fluency/48/000000/green-circle.png"/> 
+  Soumyajit Datta 
+  <img src="https://img.icons8.com/fluency/48/000000/green-circle.png"/>
+</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
 <p align="center">
