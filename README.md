@@ -13,8 +13,9 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 - 🌱 I’m currently learning **MERN**
-- 💬 Ask me about **Django, Python, and Backend Development**
+- 💬 Ask me about **Javascript, Nodejs, Express and Backend Development**
 - 📫 How to reach me **soumyajitdatta1234@gmail.com**
+- Practising Dsa **LeetCode**
 - ⚡ Fun fact **I love exploring new tech stacks and tools**
 
 <h3 align="left">Connect with me:</h3>
