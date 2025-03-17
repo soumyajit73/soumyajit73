@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://img.icons8.com/fluency/48/000000/green-circle.png"/> 
+<!--   <img src="https://img.icons8.com/fluency/48/000000/green-circle.png"/>  -->
   Soumyajit Datta 
-  <img src="https://img.icons8.com/fluency/48/000000/green-circle.png"/>
+<!--   <img src="https://img.icons8.com/fluency/48/000000/green-circle.png"/> -->
 </h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **MERN**
 - 💬 Ask me about **Javascript, Nodejs, Express and Backend Development**
 - 📫 How to reach me **soumyajitdatta1234@gmail.com**
-- Practising Dsa **LeetCode**
+- Practising Dsa **[LeetCode](https://leetcode.com/u/Soumyajit73/)**
 - ⚡ Fun fact **I love exploring new tech stacks and tools**
 
 <h3 align="left">Connect with me:</h3>
