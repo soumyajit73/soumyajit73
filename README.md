@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **MERN**
 - 💬 Ask me about **Javascript, Nodejs, Express and Backend Development**
 - 📫 How to reach me **soumyajitdatta1234@gmail.com**
-- Practising Dsa **[LeetCode](https://leetcode.com/u/Soumyajit73/)**
+- Practising Dsa on **[LeetCode](https://leetcode.com/u/Soumyajit73/)** nad **GeeksforGeeks**
 - ⚡ Fun fact **I love exploring new tech stacks and tools**
 
 <h3 align="left">Connect with me:</h3>
