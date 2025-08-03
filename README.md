@@ -81,9 +81,9 @@
 ### 🧮 LeetCode Activity
 
 <p align="center">
- <img src="https://leetcard.jacoblin.cool/soumyajit73?theme=unicorn&ext=activity" />
-
+    <img src="https://leetcard.jacoblin.cool/soumyajit73?ext=heatmap" alt="LeetCode heatmap" />
 </p>
+
 
 ### 🏆 GitHub Trophies
 <p align="center">
