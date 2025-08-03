@@ -81,7 +81,8 @@
 ### 🧮 LeetCode Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/soumyajit73?theme=dark&font=Roboto&ext=activity" alt="LeetCode stats" />
+ <img src="https://leetcard.jacoblin.cool/soumyajit73?theme=unicorn&ext=activity" />
+
 </p>
 
 ### 🏆 GitHub Trophies
