@@ -19,8 +19,8 @@
 ### 💡 About Me
 - 🌱 Currently learning **MERN Stack**
 - 💬 Ask me about **JavaScript, Node.js, Express, Backend Development**
-- 📫 Reach me at **soumyajitdatta1234@gmail.com**
-- 🧠 Practicing DSA on [LeetCode](https://leetcode.com/u/Soumyajit73/) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/soumyajit%20datta)
+- 📫 Reach me at **soumyajitdatta.dev@gmail.com**
+- 🧠 Practicing DSA on [LeetCode](https://leetcode.com/u/Soumyajit73/) 
 - ⚡ Fun fact: I love exploring new tech stacks and tools!
 
 ---
