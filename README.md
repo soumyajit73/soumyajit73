@@ -11,8 +11,7 @@
 </p>
 
 <p align="center">
-<img align="right" alt="AI Dev" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
+<img align="right" alt="Hacker" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 </p>
 
