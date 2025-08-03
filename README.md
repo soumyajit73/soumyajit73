@@ -10,12 +10,7 @@
   <img src="https://img.shields.io/github/followers/soumyajit73?label=Followers&style=social" alt="followers-count" />
 </p>
 
-<p align="center">
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
-
-
-</p>
 
 ---
 
