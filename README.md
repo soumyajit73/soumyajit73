@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-<img align="right" alt="Hacker" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+
 
 </p>
 
